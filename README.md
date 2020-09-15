@@ -14,3 +14,5 @@ Grant; Duke Center for Genomic and Computational Biology Faculty Research Grant;
 Duke Institute of Brain Science Incubator Award; American Heart Association
 Collaborative Sciences Award (18CSA34080277).
  
+Some of this dataset was used in https://arxiv.org/abs/2006.00251 and is stored
+at https://osf.io/9u3kt/.
